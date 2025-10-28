@@ -24,7 +24,7 @@
 - `exports/` — podcast, video, game-ready audio profiles
 - `guides/` — 60-second setup, API tips, voice tuning
 - `assets/` — banners, audio samples, thumbnails
-> This repo does **not** include ElevenLabs software or keys. Use official trial at [elevenlabs.io](https://elevenlabs.io).
+ 
 
 ---
 
